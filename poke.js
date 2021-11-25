@@ -29,7 +29,6 @@ var board=document.createElement("div")
             div1.style.width="200px"
             div1.style.backgroundColor="black"
             div1.style.border="2px solid black"
-            div1.style.boxShadow="10px 10px black"
              
 
             var img1 =document.createElement("img")
